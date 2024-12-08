@@ -1,0 +1,1 @@
+C:\Users\chase\Documents\rust_projects\chip8_emulator\desktop\target\debug\desktop.exe: C:\Users\chase\Documents\rust_projects\chip8_emulator\chip8_core\src\lib.rs C:\Users\chase\Documents\rust_projects\chip8_emulator\desktop\src\main.rs
